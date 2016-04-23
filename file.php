@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>commit3</title>
 </head>
 <body>
 <form action="log/cek.php" method="post">
