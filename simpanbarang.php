@@ -2,7 +2,7 @@
 include 'koneksi.php';  
 $nama=$_POST['nama'];
 $harga=$_POST['harga'];
-if($harga==''||$nama=''){
+if($harga==''||$nama==''){
 	echo "tidak boleh kosong";
 }
 else{
